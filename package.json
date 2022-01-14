@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material-ui/data-grid": "^4.0.0-alpha.22",
+    "yarn": "^1.22.10"
+  }
+}

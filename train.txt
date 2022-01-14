@@ -1,0 +1,34 @@
+A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity) is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.
+
+The term "ChatterBot" was originally coined by Michael Mauldin (creator of the first Verbot, Julia) in 1994 to describe these conversational programs.Today, most chatbots are either accessed via virtual assistants such as Google Assistant and Amazon Alexa, via messaging apps such as Facebook Messenger or WeChat, or via individual organizations' apps and websites. Chatbots can be classified into usage categories such as conversational commerce (e-commerce via chat), analytics, communication, customer support, design, developer tools, education, entertainment, finance, food, games, health, HR, marketing, news, personal, productivity, shopping, social, sports, travel and utilities.
+
+
+In 1950, Alan Turing's famous article "Computing Machinery and Intelligence" was published, which proposed what is now called the Turing test as a criterion of intelligence. This criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge, sufficiently well that the judge is unable to distinguish reliably—on the basis of the conversational content alone—between the program and a real human. The notoriety of Turing's proposed test stimulated great interest in Joseph Weizenbaum's program ELIZA, published in 1966, which seemed to be able to fool users into believing that they were conversing with a real human. However Weizenbaum himself did not claim that ELIZA was genuinely intelligent, and the Introduction to his paper presented it more as a debunking exercise:
+
+There are many APIs available for building your own chatbots, such as AARC.
+
+If you want to search by genre you can use the search bar for searching in our website, and switch the search criteria to Genre.
+
+If you want to search by keyword you can use the search bar for searching in our website, and switch the search criteria to Keyword.
+
+If you want to search by overview you can use the search bar for searching in our website, and switch the search criteria to Overview.
+
+If you want to search by title you can use the search bar for searching in our website, and switch the search criteria to Title.
+
+If you cannot register you must regiester with a valid email address and the password must contains at least 8 characters.
+
+I think you want to purchase a movie if you want to purchase a movie, click the movie you want to purchase and click purchase on the left hand side 
+add the item to your shopping cart and you click the cart and submit the purchase.
+
+Cannot watch an NC-17 movie these are movies people under 17 should never watch, because there are some sexy things.
+
+You cannot change your birthday because there are some movies with adult age ratings, if you are too young you are
+not suppose to see these things.
+
+If you think the recommendation is bad you can go to your profile page and fix your preferred genre, some new recommendation will be provided.
+
+I think you want to go to the profile page you can go to the profile page by clicking the icon on the top right of the website.
+
+You think I am stupid are you serious?
+
+You think I am smart thank you very much.
